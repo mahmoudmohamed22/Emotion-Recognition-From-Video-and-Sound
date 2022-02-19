@@ -1,0 +1,15 @@
+1- MFCC explain v 19
+2- MFCC python  v 20
+link:https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0
+
+3-explain CNN
+https://youtu.be/t3qWfUYJEYU
+
+4-explain data augmantation
+https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW
+
+5-explain RNN
+https://youtu.be/DY82Goknf0s
+
+6-Deep Learning (for Audio) with Python:
+https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf

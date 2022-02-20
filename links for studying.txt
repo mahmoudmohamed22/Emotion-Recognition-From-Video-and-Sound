@@ -13,3 +13,7 @@ https://youtu.be/DY82Goknf0s
 
 6-Deep Learning (for Audio) with Python:
 https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf
+
+7-improvement accuracy
+https://towardsdatascience.com/increase-the-accuracy-of-your-cnn-by-following-these-5-tips-i-learned-from-the-kaggle-community-27227ad39554
+

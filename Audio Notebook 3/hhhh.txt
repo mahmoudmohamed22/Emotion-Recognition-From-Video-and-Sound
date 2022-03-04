@@ -1,0 +1,42 @@
+
+
+
+
+# path to data for glob
+data_path = 'ravadessspeech&song'
+
+##'RAVDESS dataset/Actor_*/*.wav'
+dir_list = os.listdir(data_path)
+
+
+
+rav=[]
+for actor in dir_list:
+    files=os.listdir(data_path+'/'+actor)
+    for file in files:
+        part = file.split('.')[0]
+        part = part.split("-")           
+            
+        temp = int(part[6])        
+                
+        if part[2] == '01':
+            emotion = 'neutral'
+        elif part[2] == '02':
+            emotion = 'calm'
+        elif part[2] == '03':
+            emotion = 'happy'
+        elif part[2] == '04':
+            emotion = 'sad'
+        elif part[2] == '05':
+            emotion = 'angry'
+        elif part[2] == '06':
+            emotion = 'fear'
+        elif part[2] == '07':
+            emotion = 'disgust'
+        elif part[2] == '08':
+            emotion = 'surprise'
+        else:
+            emotion = 'unknown'
+        waveform = get_waveforms(file)
+        rav.append([emotion,waveform])
+dataf=pd.DataFrame

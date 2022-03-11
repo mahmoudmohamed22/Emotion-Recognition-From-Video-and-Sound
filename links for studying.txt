@@ -8,6 +8,7 @@ https://youtu.be/t3qWfUYJEYU
 
 4-explain data augmantation
 https://youtube.com/playlist?list=PL-wATfeyAMNoR4aqS-Fv0GRmS6bx5RtTW
+https://medium.com/@makcedward/data-augmentation-for-audio-76912b01fdf6
 
 5-explain RNN
 https://youtu.be/DY82Goknf0s

@@ -19,3 +19,9 @@ https://youtube.com/playlist?list=PL-wATfeyAMNrtbkCNsLcpoAyBBRJZVlnf
 7-improvement accuracy
 https://towardsdatascience.com/increase-the-accuracy-of-your-cnn-by-following-these-5-tips-i-learned-from-the-kaggle-community-27227ad39554
 
+8-convd1 2d 3d
+https://datascience.stackexchange.com/questions/32455/which-convolution-should-i-use-conv2d-or-conv1d
+
+
+
+

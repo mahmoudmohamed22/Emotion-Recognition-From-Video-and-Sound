@@ -1,5 +1,6 @@
 1- MFCC explain v 19
 2- MFCC python  v 20
+https://medium.com/@tanveer9812/mfccs-made-easy-7ef383006040
 link:https://youtube.com/playlist?list=PL-wATfeyAMNqIee7cH3q1bh4QJFAaeNv0
 
 3-explain CNN

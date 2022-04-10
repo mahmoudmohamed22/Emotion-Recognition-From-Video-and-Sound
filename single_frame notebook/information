@@ -1,0 +1,8 @@
+Speech data set
+80% train
+10% test
+10% valid
+5 epocs
+
+Test_acc based on single frames → 78.25%
+Test_acc based on single videos → 92.45%
